@@ -1,0 +1,111 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.my-nav{
+    background-color: #FEF8F8;
+}
+.logo-div{
+    color: white;
+    font-weight: bolder !important;
+    background-color: #F94A3D;
+}
+.name{
+    color: #F94A3D;
+    font-weight: bolder !important;
+}
+.div-2>a{
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+    color: black;
+    margin-inline: 8px;
+}
+.div-3>button{
+    background-color: #F94A3D;
+}
+.my-head{
+    padding-inline: 100px;
+    background-color: #FEF8F8;
+}
+.tag-line>p{
+    font-weight: bolder;
+}
+.special-text{
+    color: #F94A3D;
+}
+.ex-btn{
+    color: #FEF8F8 !important;
+    width: 30%;
+    background-color: #F94A3D !important;
+}
+.para>p{
+    /* background-color: #FEF8F8; */
+    width: auto;
+    background-color: #FEF8F8;
+}
+.para-1{
+    /* color: blue !important; */
+    color: #212244;
+    font-size: bold;
+}
+.para-2{
+    font-size: 18px;
+    color: #69697B;
+    /* color: blue !important; */
+}
+.food-items>p{
+    margin-inline: 15px;
+}
+.rating{
+    margin: auto;
+}
+.price-line{
+    font-size: 15px;
+    color: #69697B;
+}
+.price{
+    font-size: 15px;
+    color: #F94A3D;
+}
+.food-btn{
+    border: 2px solid #F94A3D !important;
+}
+.logo-line{
+    font-size: 20px;
+    font-weight: bold;
+    color: #F94A3D;
+}
+.logo{
+    background-color: #F94A3D;
+    color: white;
+}
+th{
+    text-align: left;
+    padding-bottom: 20px;
+    /* padding: 5px; */
+    width: 30%;
+    font-weight: 600;
+    font-size: 15px;
+    color: #2E2E2E;
+}
+td{
+    padding: 2px;
+    width: 30%;
+    font-weight: 400;
+    color: #69697B;
+    font-size: 13px;
+}
+.foot-1{
+    flex: 1;
+}
+.table-section{
+    flex: 2;
+}
+footer{
+    /* margin-inline: 100px; */
+    padding-top: 50px;
+    padding-bottom: 100px;
+    padding-inline: 100px;
+    background-color: #FEFAF6;
+}
